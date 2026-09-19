@@ -97,7 +97,7 @@ The notebooks can then be opened locally using Jupyter Notebook or uploaded to G
 
 The trained model is integrated into my personal portfolio website, where users can upload an image and receive a sushi, pizza, or steak prediction.
 
-**Portfolio:** julienaramouni.com
+**Portfolio:** https://julienaramouni.com
 
 ## Dataset
 
